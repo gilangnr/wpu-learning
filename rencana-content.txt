@@ -1,8 +1,8 @@
 rencana konten:
 - bikin apk 
   + belajar
+  + sekolah
 - bikin web baru
-- bikin landing page 
 - belajar back end
 - belajar frame work js
 - belajar bahsa baru
