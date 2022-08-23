@@ -4,4 +4,6 @@ rencana konten:
   + sekolah
 - bikin web baru
 - belajar back end
-- belajar bhasa baru
+- belajar frame work js
+- belajar bahsa baru
+  + phyton
