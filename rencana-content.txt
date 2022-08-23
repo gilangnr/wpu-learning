@@ -4,3 +4,5 @@ rencana konten:
 - bikin web baru
 - bikin landing page 
 - belajar back end
+- belajar frame work js
+- belajar bahsa baru
