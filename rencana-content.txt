@@ -1,4 +1,5 @@
 rencana konten:
-- bikin apk
+- bikin apk 
+  + belajar
 - bikin web baru
 - bikin landing page 
