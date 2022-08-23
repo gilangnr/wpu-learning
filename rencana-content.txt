@@ -6,3 +6,4 @@ rencana konten:
 - belajar back end
 - belajar frame work js
 - belajar bahsa baru
+  + phyton
