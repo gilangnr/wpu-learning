@@ -3,3 +3,4 @@ rencana konten:
   + belajar
 - bikin web baru
 - bikin landing page 
+- belajar back end
